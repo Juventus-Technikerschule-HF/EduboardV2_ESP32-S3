@@ -418,7 +418,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "EduboardV2_kicadlib"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -459,7 +461,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": ""
+      "vrml": "EduboardV2_ESP32-S3.wrl"
     },
     "page_layout_descr_file": ""
   },
