@@ -421,7 +421,9 @@
     "pinned_footprint_libs": [
       "EduboardV2_kicadlib"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "EduboardV2_Kicadlib"
+    ]
   },
   "meta": {
     "filename": "EduboardV2_ESP32-S3.kicad_pro",
